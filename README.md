@@ -1,1 +1,1 @@
-#oi como instalar o nbxyterminal ABRA o noobloxyterminalinstaller - nbxyinstaller e vai abrir o instalador ai vc vai na arquivos de rogram files e vai estar la o folder noobloxyterminal abra o reg e vai criar a extensao ".nbxy"-nooblox scrit host #obrigado or baixar 
+oi como instalar o nbxyterminal ABRA o noobloxyterminalinstaller - nbxyinstaller e vai abrir o instalador ai vc vai na arquivos de rogram files e vai estar la o folder noobloxyterminal abra o reg e vai criar a extensao ".nbxy"-nooblox scrit host. 
